@@ -6,3 +6,5 @@ Once .exe file get executed, it will create a text file named myrecording.txt in
 This text file will get contain all the keystrokes pressed by the user.
 Now to stop the process of recording key strokes go to task manager in windows 
     Task manager > details > search keylogger.exe > right click > end task
+
+Now if for some reason , keylogger.exe file gives any error. The source code is there, you can compile that code again according to your system requirement.
